@@ -10,4 +10,5 @@ public class ThymeleafLoginApplication {
 		SpringApplication.run(ThymeleafLoginApplication.class, args);
 	}
 
+
 }
